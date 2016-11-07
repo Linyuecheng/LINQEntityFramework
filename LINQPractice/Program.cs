@@ -10,8 +10,10 @@ namespace LINQPractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("123");
-            Console.ReadLine();
+            Practice2_1 p21 = new Practice2_1();
+
+            //Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
